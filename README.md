@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PenielShell
 - 👀 I’m interested in ... Frontend developements
-- 🌱 I’m currently learning ...React Js
+- 🌱 I’m Open to learning everyday to grow as a excellent software engineer.
 - 💞️ I’m looking to collaborate on ...Several project ideas to impact human lives.
 - 📫 How to reach me ... +2348100828813, eunicemodupe62@gmail.com
 
